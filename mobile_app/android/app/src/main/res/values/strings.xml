@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mobile_app</string>
+    <string name="auth0_domain">dev-bm0sid7ybtowbw6r.us.auth0.com</string>
+    <string name="auth0_scheme">com.supmap.mobile</string>
+</resources>
